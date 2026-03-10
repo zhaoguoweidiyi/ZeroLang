@@ -1,0 +1,4 @@
+[console_scripts]
+zero-compiler = zero_lang.compiler:main
+zero-generator = zero_lang.generator:main
+zero-vm = zero_lang.vm:main
